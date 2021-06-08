@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord-sf": "^1.0.4",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^3.2.2-3"
+  }
+}
